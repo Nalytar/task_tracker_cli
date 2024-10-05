@@ -4,6 +4,7 @@ Project-URL = https://roadmap.sh/projects/task-tracker
 1. Give execution permissions to the setupTaskTracker.sh script using the command <code>chmod +x setupTaskTracker.sh</code>
 2. Run the script using the command <code>./setupTaskTracker.sh</code>
 <blockquote>On windows execute the setupTaskTracker.ps1 PowerShell Script</blockquote>
+3. Restart your cli for the scripts changes to take place
 
 There is also a -h command to display some informations to help in using the script
 
